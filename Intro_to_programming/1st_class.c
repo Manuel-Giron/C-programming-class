@@ -6,7 +6,7 @@ int main(){
         b++;
     }
     printf("hello world\n"); // \n = new line, escape sequence 
-    printf("I am ready to code!\n");
+    printf("\tI am ready to code!\n");
     printf("%d\n",b);
     while(b<20){
         float g =  11 + b / 8.0;
