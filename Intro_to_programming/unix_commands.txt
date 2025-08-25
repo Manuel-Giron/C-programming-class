@@ -7,3 +7,7 @@ to the specified one.
 6. clear - clears the terminal window.
 7. gcc <file_name (c source code)> - compiles the program.
 8. ./<executable_file> - runs the program.
+git status - check status of files
+git add <file name> - adds file
+git commit -m "sjsjssj" - commits changes with a messeage
+git push - pushes changes onto repository
